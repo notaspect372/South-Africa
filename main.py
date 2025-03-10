@@ -213,7 +213,7 @@ def scrape_multiple_urls(base_urls):
 
 # Example usage
 base_urls = [
-    "https://www.privateproperty.co.za/for-sale/western-cape/west-coast/54",
+    "https://www.privateproperty.co.za/for-sale/eastern-cape/port-elizabeth-and-nelson-mandela-bay/2954",
 
 ]
 
